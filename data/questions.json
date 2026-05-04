@@ -1,0 +1,2524 @@
+[
+  {
+    "id": "1-opportunity-cost-01",
+    "unit": 1,
+    "topic": "Opportunity Cost",
+    "difficulty": "easy",
+    "type": "calculation",
+    "question": "A student can finish 3 economics problem sets or 2 lab reports in one evening. What is the opportunity cost of completing 1 lab report?",
+    "choices": [
+      "1 problem set",
+      "1.5 problem sets",
+      "2 problem sets",
+      "3 problem sets"
+    ],
+    "correctAnswer": "1.5 problem sets",
+    "explanation": "The same evening can produce 3 problem sets or 2 lab reports.|Opportunity cost per lab report is 3/2.|That equals 1.5 problem sets.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-opportunity-cost-02",
+    "unit": 1,
+    "topic": "Opportunity Cost",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A city can build either 6 small clinics or 2 large hospitals with the same budget. If it builds one large hospital, what must it give up?",
+    "choices": [
+      "1 small clinic",
+      "2 small clinics",
+      "3 small clinics",
+      "6 small clinics"
+    ],
+    "correctAnswer": "3 small clinics",
+    "explanation": "The budget tradeoff is 6 clinics for 2 hospitals.|Divide 6 by 2.|One hospital costs 3 clinics.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-comparative-advantage-01",
+    "unit": 1,
+    "topic": "Comparative Advantage",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "Lina can make 12 bracelets or 4 rings per hour. Omar can make 10 bracelets or 5 rings per hour. Who has the comparative advantage in rings?",
+    "choices": [
+      "Lina, because she gives up 2 bracelets per ring",
+      "Omar, because he gives up 2 bracelets per ring",
+      "Lina, because she can make more bracelets",
+      "Omar, because he gives up 0.5 ring per bracelet"
+    ],
+    "correctAnswer": "Omar, because he gives up 2 bracelets per ring",
+    "explanation": "Lina gives up 12/4 = 3 bracelets per ring.|Omar gives up 10/5 = 2 bracelets per ring.|Omar has the lower opportunity cost in rings.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-comparative-advantage-02",
+    "unit": 1,
+    "topic": "Comparative Advantage",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "Country A can produce 40 wheat or 20 cloth. Country B can produce 30 wheat or 10 cloth. Which statement is true?",
+    "choices": [
+      "A has comparative advantage in both goods",
+      "B has comparative advantage in cloth",
+      "A has comparative advantage in cloth and B in wheat",
+      "B has absolute advantage in wheat"
+    ],
+    "correctAnswer": "A has comparative advantage in cloth and B in wheat",
+    "explanation": "A gives up 2 wheat per cloth; B gives up 3 wheat per cloth.|A has the lower opportunity cost in cloth.|B gives up 1/3 cloth per wheat while A gives up 1/2 cloth, so B has comparative advantage in wheat.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-ppc-01",
+    "unit": 1,
+    "topic": "Production Possibilities Curve",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "A point inside a production possibilities curve indicates that an economy is",
+    "choices": [
+      "using all resources efficiently",
+      "using resources inefficiently or leaving some idle",
+      "unable to produce that combination",
+      "experiencing constant opportunity cost"
+    ],
+    "correctAnswer": "using resources inefficiently or leaving some idle",
+    "explanation": "The PPC shows maximum efficient output combinations.|A point inside the curve is attainable but not efficient.|It means resources are idle or used inefficiently.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-ppc-02",
+    "unit": 1,
+    "topic": "Production Possibilities Curve",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A drought destroys farmland used to produce food but does not affect factories used to produce tools. What happens to the PPC for food and tools?",
+    "choices": [
+      "It shifts outward equally for both goods",
+      "It shifts inward mainly along the food axis",
+      "It becomes a straight line",
+      "It moves from inside the curve to on the curve"
+    ],
+    "correctAnswer": "It shifts inward mainly along the food axis",
+    "explanation": "The drought reduces the ability to produce food.|Tool production capacity is mostly unchanged.|The PPC shifts inward more on the food side.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-ppc-03",
+    "unit": 1,
+    "topic": "Production Possibilities Curve",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A bowed-out PPC most directly reflects",
+    "choices": [
+      "constant opportunity cost",
+      "increasing opportunity cost",
+      "decreasing scarcity",
+      "unlimited resources"
+    ],
+    "correctAnswer": "increasing opportunity cost",
+    "explanation": "A bowed-out PPC means resources are not equally suited to all uses.|As production shifts toward one good, increasingly costly resources are used.|Opportunity cost rises.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-marginal-analysis-01",
+    "unit": 1,
+    "topic": "Marginal Analysis",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A shop should hire one more cashier if the cashier adds 80 gold in revenue and 65 gold in cost because",
+    "choices": [
+      "total cost is greater than marginal revenue",
+      "marginal benefit exceeds marginal cost",
+      "average cost must be falling",
+      "fixed cost will decrease"
+    ],
+    "correctAnswer": "marginal benefit exceeds marginal cost",
+    "explanation": "Marginal analysis compares the extra benefit and extra cost.|The extra benefit is 80 and the extra cost is 65.|Since benefit exceeds cost, hiring adds net benefit.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-marginal-analysis-02",
+    "unit": 1,
+    "topic": "Marginal Analysis",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A bakery earns 42 additional gold from baking one more tray and incurs 47 additional gold in cost. What should it do?",
+    "choices": [
+      "Bake the tray because total revenue rises",
+      "Bake the tray because marginal cost rises",
+      "Do not bake the tray because marginal cost exceeds marginal benefit",
+      "Bake the tray only if fixed cost is zero"
+    ],
+    "correctAnswer": "Do not bake the tray because marginal cost exceeds marginal benefit",
+    "explanation": "The relevant comparison is marginal benefit versus marginal cost.|The tray adds 42 in benefit and 47 in cost.|Because cost exceeds benefit, it should not be baked.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-scarcity-01",
+    "unit": 1,
+    "topic": "Scarcity",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Scarcity exists because",
+    "choices": [
+      "human wants exceed available resources",
+      "money has no value without government",
+      "markets always fail to allocate goods",
+      "resources are distributed equally"
+    ],
+    "correctAnswer": "human wants exceed available resources",
+    "explanation": "Scarcity is the basic economic problem.|Wants are unlimited while resources are limited.|Choices and opportunity costs result.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-positive-normative-01",
+    "unit": 1,
+    "topic": "Positive and Normative Statements",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Which statement is positive rather than normative?",
+    "choices": [
+      "The city should lower bus fares",
+      "A rent ceiling will reduce the quantity of apartments supplied",
+      "The tax system is unfair",
+      "College tuition ought to be free"
+    ],
+    "correctAnswer": "A rent ceiling will reduce the quantity of apartments supplied",
+    "explanation": "Positive statements can be tested with evidence.|A prediction about quantity supplied can be tested.|Words such as should, ought, and unfair signal value judgments.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-specialization-01",
+    "unit": 1,
+    "topic": "Specialization and Trade",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Two countries can both gain from trade when each country specializes according to",
+    "choices": [
+      "absolute advantage only",
+      "comparative advantage",
+      "the good with the highest price",
+      "the good with the lowest total cost"
+    ],
+    "correctAnswer": "comparative advantage",
+    "explanation": "Comparative advantage is based on lower opportunity cost.|Specializing by comparative advantage increases total output.|Trade can then make both sides better off.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-absolute-advantage-01",
+    "unit": 1,
+    "topic": "Absolute Advantage",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "A producer has an absolute advantage in a good if the producer",
+    "choices": [
+      "has the lower opportunity cost",
+      "can produce more of the good with the same resources",
+      "faces a lower market price",
+      "uses only one input"
+    ],
+    "correctAnswer": "can produce more of the good with the same resources",
+    "explanation": "Absolute advantage compares output using the same resources.|The producer that can make more has the absolute advantage.|Comparative advantage is the lower-opportunity-cost idea.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-economic-systems-01",
+    "unit": 1,
+    "topic": "Economic Systems",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In a market economy, the question of what goods to produce is answered mainly by",
+    "choices": [
+      "consumer purchases and producer profit incentives",
+      "a central planning board",
+      "random assignment of resources",
+      "equal shares of all goods"
+    ],
+    "correctAnswer": "consumer purchases and producer profit incentives",
+    "explanation": "Market economies rely on decentralized choices.|Consumers signal preferences through purchases.|Firms respond to profit incentives.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-incentives-01",
+    "unit": 1,
+    "topic": "Incentives",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A toll rises during rush hour. Which response best illustrates the law of demand and incentives?",
+    "choices": [
+      "More drivers use the road because price is higher",
+      "Some drivers travel at another time because the opportunity cost rose",
+      "The supply of roads shifts left immediately",
+      "Demand for gasoline must increase"
+    ],
+    "correctAnswer": "Some drivers travel at another time because the opportunity cost rose",
+    "explanation": "A higher toll raises the cost of rush-hour driving.|Some drivers substitute away from that choice.|This is a response to incentives and a movement along demand for road use.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-tradeoff-01",
+    "unit": 1,
+    "topic": "Trade-offs",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A school spends more of its budget on robotics equipment and less on athletic uniforms. This decision most clearly illustrates",
+    "choices": [
+      "scarcity and trade-offs",
+      "a price ceiling",
+      "market power",
+      "a positive externality"
+    ],
+    "correctAnswer": "scarcity and trade-offs",
+    "explanation": "The school budget is limited.|Spending more on one category means spending less on another.|That is a trade-off caused by scarcity.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-gains-from-trade-01",
+    "unit": 1,
+    "topic": "Gains from Trade",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "Ava gives up 4 poems for 1 painting. Ben gives up 2 poems for 1 painting. Which trade price for 1 painting can make both better off?",
+    "choices": [
+      "1 poem",
+      "2 poems",
+      "3 poems",
+      "5 poems"
+    ],
+    "correctAnswer": "3 poems",
+    "explanation": "Ava values a painting at a cost of 4 poems; Ben can produce it at a cost of 2 poems.|A mutually beneficial price must be between their opportunity costs.|3 poems is between 2 and 4.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-allocative-efficiency-01",
+    "unit": 1,
+    "topic": "Allocative Efficiency",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Allocative efficiency occurs when",
+    "choices": [
+      "total revenue is maximized",
+      "marginal benefit equals marginal cost",
+      "average total cost is minimized in every market",
+      "all firms earn positive economic profit"
+    ],
+    "correctAnswer": "marginal benefit equals marginal cost",
+    "explanation": "Allocative efficiency means society produces the quantity where the value of the last unit equals its cost.|That condition is MB = MC.|At that point total surplus is maximized.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-economic-profit-01",
+    "unit": 1,
+    "topic": "Economic Profit",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A designer earns 90,000 gold in revenue, pays 55,000 in explicit costs, and gives up a 25,000 gold salary elsewhere. Economic profit equals",
+    "choices": [
+      "10,000 gold",
+      "35,000 gold",
+      "65,000 gold",
+      "90,000 gold"
+    ],
+    "correctAnswer": "10,000 gold",
+    "explanation": "Economic profit subtracts explicit and implicit costs.|Total cost is 55,000 + 25,000 = 80,000.|Economic profit is 90,000 - 80,000 = 10,000.",
+    "graphConfig": null
+  },
+  {
+    "id": "1-circular-flow-01",
+    "unit": 1,
+    "topic": "Circular Flow",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "In the circular flow model, households primarily supply",
+    "choices": [
+      "finished goods and services",
+      "factors of production",
+      "tax revenue to firms",
+      "imports to foreign buyers"
+    ],
+    "correctAnswer": "factors of production",
+    "explanation": "Households own resources such as labor, land, and capital.|They supply those factors in factor markets.|Firms use the factors to produce goods and services.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-demand-shifters-01",
+    "unit": 2,
+    "topic": "Demand Shifters",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If tablets and e-books are complements, a decrease in the price of tablets will most likely cause",
+    "choices": [
+      "a decrease in demand for e-books",
+      "an increase in demand for e-books",
+      "a decrease in supply of e-books",
+      "a movement up the demand curve for e-books"
+    ],
+    "correctAnswer": "an increase in demand for e-books",
+    "explanation": "Complements are used together.|A lower tablet price increases tablet purchases.|Demand for the related complement, e-books, increases.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-demand-shifters-02",
+    "unit": 2,
+    "topic": "Demand Shifters",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If tea is a substitute for coffee, an increase in the price of coffee will cause the demand for tea to",
+    "choices": [
+      "increase",
+      "decrease",
+      "remain unchanged but quantity demanded rises",
+      "become perfectly inelastic"
+    ],
+    "correctAnswer": "increase",
+    "explanation": "Substitutes can replace each other.|When coffee becomes more expensive, some consumers switch to tea.|Demand for tea shifts right.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-supply-shifters-01",
+    "unit": 2,
+    "topic": "Supply Shifters",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A new machine lowers the cost of producing solar lamps. Which graph change best represents the market for solar lamps?",
+    "choices": [
+      "Supply shifts right, price falls, quantity rises",
+      "Supply shifts left, price rises, quantity falls",
+      "Demand shifts right, price rises, quantity rises",
+      "Demand shifts left, price falls, quantity falls"
+    ],
+    "correctAnswer": "Supply shifts right, price falls, quantity rises",
+    "explanation": "Lower input costs make production more profitable at each price.|Supply increases and shifts right.|The new equilibrium has lower price and higher quantity.",
+    "graphConfig": {
+      "type": "supplyDemand",
+      "title": "Market for Solar Lamps",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        },
+        {
+          "label": "S2",
+          "kind": "supply",
+          "shift": "right"
+        }
+      ],
+      "highlight": "newEquilibrium",
+      "interaction": "dragCurve",
+      "correctAnswer": {
+        "kind": "shift",
+        "curve": "supply",
+        "direction": "right"
+      }
+    }
+  },
+  {
+    "id": "2-equilibrium-01",
+    "unit": 2,
+    "topic": "Market Equilibrium",
+    "difficulty": "easy",
+    "type": "graph",
+    "question": "At a price above equilibrium in a competitive market, which condition occurs?",
+    "choices": [
+      "A shortage, causing price to rise",
+      "A surplus, causing price to fall",
+      "No pressure on price",
+      "Demand shifts right automatically"
+    ],
+    "correctAnswer": "A surplus, causing price to fall",
+    "explanation": "A price above equilibrium makes quantity supplied exceed quantity demanded.|That creates a surplus.|Competition among sellers puts downward pressure on price.",
+    "graphConfig": {
+      "type": "supplyDemand",
+      "title": "Market Equilibrium",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        }
+      ],
+      "highlight": "surplus",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "surplus"
+      }
+    }
+  },
+  {
+    "id": "2-equilibrium-02",
+    "unit": 2,
+    "topic": "Market Equilibrium",
+    "difficulty": "easy",
+    "type": "graph",
+    "question": "At a price below equilibrium in a competitive market, which condition occurs?",
+    "choices": [
+      "A surplus, causing price to fall",
+      "A shortage, causing price to rise",
+      "Excess supply, causing demand to decrease",
+      "A binding price floor"
+    ],
+    "correctAnswer": "A shortage, causing price to rise",
+    "explanation": "A price below equilibrium makes quantity demanded exceed quantity supplied.|That creates a shortage.|Buyers compete for the good, putting upward pressure on price.",
+    "graphConfig": {
+      "type": "supplyDemand",
+      "title": "Market Equilibrium",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        }
+      ],
+      "highlight": "shortage",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "shortage"
+      }
+    }
+  },
+  {
+    "id": "2-demand-supply-both-01",
+    "unit": 2,
+    "topic": "Simultaneous Shifts",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Suppose consumer income rises for a normal good while a new tax raises production costs. What must happen to equilibrium price?",
+    "choices": [
+      "It rises",
+      "It falls",
+      "It stays the same",
+      "It cannot be determined"
+    ],
+    "correctAnswer": "It rises",
+    "explanation": "Demand shifts right, which raises price.|Supply shifts left, which also raises price.|Both shifts increase price, while quantity is ambiguous.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-demand-supply-both-02",
+    "unit": 2,
+    "topic": "Simultaneous Shifts",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Demand for bicycles increases while the cost of aluminum used in bicycles falls. What is the effect on equilibrium quantity and price?",
+    "choices": [
+      "Quantity rises; price is ambiguous",
+      "Quantity falls; price rises",
+      "Quantity is ambiguous; price falls",
+      "Quantity rises; price definitely falls"
+    ],
+    "correctAnswer": "Quantity rises; price is ambiguous",
+    "explanation": "Demand shifting right raises quantity and price.|Supply shifting right raises quantity and lowers price.|Both shifts raise quantity, but price depends on which shift is larger.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-elasticity-01",
+    "unit": 2,
+    "topic": "Price Elasticity of Demand",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "When price rises from 10 to 12, quantity demanded falls from 100 to 80. Using the midpoint method, demand is approximately",
+    "choices": [
+      "elastic",
+      "inelastic",
+      "unit elastic",
+      "perfectly elastic"
+    ],
+    "correctAnswer": "elastic",
+    "explanation": "Percent quantity change is 20/90 = 22.2%.|Percent price change is 2/11 = 18.2%.|Elasticity is about 1.22, so demand is elastic.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-elasticity-02",
+    "unit": 2,
+    "topic": "Price Elasticity of Demand",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "Price falls from 8 to 6 and quantity demanded rises from 50 to 70. Using the midpoint method, elasticity equals approximately",
+    "choices": [
+      "0.58",
+      "0.86",
+      "1.17",
+      "2.33"
+    ],
+    "correctAnswer": "1.17",
+    "explanation": "Quantity changes by 20 around midpoint 60, so percent change is 33.3%.|Price changes by 2 around midpoint 7, so percent change is 28.6%.|Elasticity is 33.3/28.6 = about 1.17.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-total-revenue-01",
+    "unit": 2,
+    "topic": "Elasticity and Total Revenue",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If demand for concert tickets is inelastic, increasing the ticket price will cause total revenue to",
+    "choices": [
+      "increase",
+      "decrease",
+      "stay constant",
+      "fall to zero"
+    ],
+    "correctAnswer": "increase",
+    "explanation": "With inelastic demand, quantity demanded changes less than price.|A price increase causes a smaller percentage decrease in quantity.|Total revenue rises.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-total-revenue-02",
+    "unit": 2,
+    "topic": "Elasticity and Total Revenue",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A store sells 40 units at 5 gold each. After price rises to 6 gold, it sells 36 units. What happens to total revenue?",
+    "choices": [
+      "It falls by 16 gold",
+      "It rises by 16 gold",
+      "It rises by 36 gold",
+      "It stays at 200 gold"
+    ],
+    "correctAnswer": "It rises by 16 gold",
+    "explanation": "Initial total revenue is 5 x 40 = 200.|New total revenue is 6 x 36 = 216.|Revenue rises by 16.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-cross-elasticity-01",
+    "unit": 2,
+    "topic": "Cross-Price Elasticity",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "The price of Good X rises by 10 percent and quantity demanded of Good Y rises by 4 percent. The cross-price elasticity is",
+    "choices": [
+      "-0.4, so the goods are complements",
+      "0.4, so the goods are substitutes",
+      "2.5, so the goods are complements",
+      "-2.5, so the goods are substitutes"
+    ],
+    "correctAnswer": "0.4, so the goods are substitutes",
+    "explanation": "Cross-price elasticity is percent change in quantity of Y divided by percent change in price of X.|4/10 = 0.4.|A positive value indicates substitutes.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-income-elasticity-01",
+    "unit": 2,
+    "topic": "Income Elasticity",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "Income rises by 8 percent and quantity demanded of instant noodles falls by 4 percent. The income elasticity is",
+    "choices": [
+      "-0.5, so the good is inferior",
+      "0.5, so the good is normal",
+      "2, so the good is luxury",
+      "-2, so the good is normal"
+    ],
+    "correctAnswer": "-0.5, so the good is inferior",
+    "explanation": "Income elasticity is percent change in quantity demanded divided by percent change in income.|-4/8 = -0.5.|A negative income elasticity indicates an inferior good.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-price-ceiling-01",
+    "unit": 2,
+    "topic": "Price Ceilings",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A binding rent ceiling is imposed below equilibrium. Which result is most likely?",
+    "choices": [
+      "A surplus of apartments",
+      "A shortage of apartments",
+      "An increase in apartment supply",
+      "No change in quantity supplied"
+    ],
+    "correctAnswer": "A shortage of apartments",
+    "explanation": "A binding price ceiling is below equilibrium.|At the lower price, quantity demanded rises and quantity supplied falls.|The result is a shortage.",
+    "graphConfig": {
+      "type": "priceControl",
+      "title": "Apartment Rent Ceiling",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        }
+      ],
+      "priceControl": {
+        "kind": "ceiling",
+        "binding": true
+      },
+      "highlight": "shortage",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "shortage"
+      }
+    }
+  },
+  {
+    "id": "2-price-ceiling-02",
+    "unit": 2,
+    "topic": "Price Ceilings",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A nonbinding price ceiling is placed above the equilibrium price. What happens immediately in the market?",
+    "choices": [
+      "A shortage occurs",
+      "A surplus occurs",
+      "The legal ceiling has no effect on price or quantity",
+      "Supply shifts left"
+    ],
+    "correctAnswer": "The legal ceiling has no effect on price or quantity",
+    "explanation": "A ceiling only binds if it is below equilibrium.|A ceiling above equilibrium does not restrict the market price.|The market remains at equilibrium.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-price-floor-01",
+    "unit": 2,
+    "topic": "Price Floors",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A binding minimum wage above equilibrium in a labor market creates",
+    "choices": [
+      "a shortage of labor",
+      "a surplus of labor",
+      "an increase in labor demand",
+      "a decrease in labor supply"
+    ],
+    "correctAnswer": "a surplus of labor",
+    "explanation": "A binding price floor is above equilibrium.|At the higher wage, more workers want jobs and fewer workers are hired.|Quantity supplied of labor exceeds quantity demanded, creating unemployment.",
+    "graphConfig": {
+      "type": "priceControl",
+      "title": "Binding Minimum Wage",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        }
+      ],
+      "priceControl": {
+        "kind": "floor",
+        "binding": true
+      },
+      "highlight": "surplus",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "surplus"
+      }
+    }
+  },
+  {
+    "id": "2-tax-incidence-01",
+    "unit": 2,
+    "topic": "Tax Incidence",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A per-unit tax is placed on sellers. If demand is much more inelastic than supply, who bears most of the tax burden?",
+    "choices": [
+      "Sellers, because the tax is legally on them",
+      "Buyers, because they are less responsive to price",
+      "Buyers and sellers equally in every case",
+      "Government, because it collects the tax"
+    ],
+    "correctAnswer": "Buyers, because they are less responsive to price",
+    "explanation": "Tax burden depends on relative elasticity, not legal assignment.|The less elastic side avoids changing quantity less and bears more burden.|Inelastic demand means buyers bear most of the tax.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-tax-revenue-01",
+    "unit": 2,
+    "topic": "Tax Revenue",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A tax of 3 gold per unit is imposed and 80 units are sold after the tax. Government tax revenue equals",
+    "choices": [
+      "24 gold",
+      "83 gold",
+      "240 gold",
+      "800 gold"
+    ],
+    "correctAnswer": "240 gold",
+    "explanation": "Tax revenue equals tax per unit times quantity sold.|3 x 80 = 240.|The government collects 240 gold.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-consumer-surplus-01",
+    "unit": 2,
+    "topic": "Consumer Surplus",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A buyer is willing to pay 30 gold for a ticket and pays 22 gold. The buyer receives consumer surplus of",
+    "choices": [
+      "8 gold",
+      "22 gold",
+      "30 gold",
+      "52 gold"
+    ],
+    "correctAnswer": "8 gold",
+    "explanation": "Consumer surplus is willingness to pay minus price paid.|30 - 22 = 8.|The buyer receives 8 gold of surplus.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-producer-surplus-01",
+    "unit": 2,
+    "topic": "Producer Surplus",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A seller is willing to accept 18 gold for a service and receives 25 gold. Producer surplus equals",
+    "choices": [
+      "7 gold",
+      "18 gold",
+      "25 gold",
+      "43 gold"
+    ],
+    "correctAnswer": "7 gold",
+    "explanation": "Producer surplus is price received minus minimum acceptable price.|25 - 18 = 7.|The seller receives 7 gold of surplus.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-surplus-dwl-01",
+    "unit": 2,
+    "topic": "Total Surplus and Deadweight Loss",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A tax reduces quantity from 100 to 70 units. If the tax wedge is 6 gold per unit at the lost trades, the deadweight loss is approximately",
+    "choices": [
+      "90 gold",
+      "180 gold",
+      "420 gold",
+      "600 gold"
+    ],
+    "correctAnswer": "90 gold",
+    "explanation": "DWL from a tax is 1/2 x tax wedge x reduction in quantity.|The quantity reduction is 30.|1/2 x 6 x 30 = 90.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-elasticity-supply-01",
+    "unit": 2,
+    "topic": "Price Elasticity of Supply",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "The supply of fresh strawberries is likely more price elastic in the long run than in the short run because producers",
+    "choices": [
+      "can adjust land, labor, and equipment over time",
+      "face a downward-sloping demand curve",
+      "must sell at any price in the long run",
+      "cannot change output in the long run"
+    ],
+    "correctAnswer": "can adjust land, labor, and equipment over time",
+    "explanation": "Long-run supply is usually more elastic.|Firms have more time to adjust inputs and production plans.|That makes quantity supplied more responsive to price.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-quantity-demanded-01",
+    "unit": 2,
+    "topic": "Demand vs. Quantity Demanded",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "A fall in the price of notebooks, holding all else constant, causes",
+    "choices": [
+      "demand for notebooks to increase",
+      "quantity demanded of notebooks to increase",
+      "supply of notebooks to decrease",
+      "demand for notebooks to decrease"
+    ],
+    "correctAnswer": "quantity demanded of notebooks to increase",
+    "explanation": "A change in the goods own price causes movement along the demand curve.|A lower price increases quantity demanded.|Demand shifts only when a nonprice determinant changes.",
+    "graphConfig": null
+  },
+  {
+    "id": "2-demand-graph-01",
+    "unit": 2,
+    "topic": "Demand Shifters",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A medical report says a fruit improves health. In the market for that fruit, the immediate effect is best shown as",
+    "choices": [
+      "a rightward shift of demand",
+      "a leftward shift of demand",
+      "a rightward shift of supply",
+      "a movement down the demand curve"
+    ],
+    "correctAnswer": "a rightward shift of demand",
+    "explanation": "New information can change consumer tastes.|Favorable information raises willingness to buy at each price.|Demand shifts right.",
+    "graphConfig": {
+      "type": "supplyDemand",
+      "title": "Market for the Fruit",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        },
+        {
+          "label": "D2",
+          "kind": "demand",
+          "shift": "right"
+        }
+      ],
+      "highlight": "newEquilibrium",
+      "interaction": "shiftCurve",
+      "correctAnswer": {
+        "kind": "shift",
+        "curve": "demand",
+        "direction": "right"
+      }
+    }
+  },
+  {
+    "id": "2-supply-graph-02",
+    "unit": 2,
+    "topic": "Supply Shifters",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A storm destroys many fishing boats. In the market for fish, what happens?",
+    "choices": [
+      "Supply shifts right and price falls",
+      "Supply shifts left and price rises",
+      "Demand shifts left and price falls",
+      "Demand shifts right and price rises"
+    ],
+    "correctAnswer": "Supply shifts left and price rises",
+    "explanation": "Destroyed boats reduce productive capacity.|Supply decreases and shifts left.|Equilibrium price rises and quantity falls.",
+    "graphConfig": {
+      "type": "supplyDemand",
+      "title": "Market for Fish",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "S",
+          "kind": "supply",
+          "shift": "none"
+        },
+        {
+          "label": "S2",
+          "kind": "supply",
+          "shift": "left"
+        }
+      ],
+      "highlight": "newEquilibrium",
+      "interaction": "dragCurve",
+      "correctAnswer": {
+        "kind": "shift",
+        "curve": "supply",
+        "direction": "left"
+      }
+    }
+  },
+  {
+    "id": "3-marginal-product-01",
+    "unit": 3,
+    "topic": "Marginal Product",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A factory output rises from 84 to 101 units when one more worker is hired. The marginal product of the worker is",
+    "choices": [
+      "17 units",
+      "84 units",
+      "101 units",
+      "185 units"
+    ],
+    "correctAnswer": "17 units",
+    "explanation": "Marginal product is the change in total product from one more input.|101 - 84 = 17.|The worker adds 17 units.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-diminishing-returns-01",
+    "unit": 3,
+    "topic": "Diminishing Marginal Returns",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A cafe adds workers to a fixed kitchen. Output rises, but after the third worker each added worker contributes less extra output. This is caused by",
+    "choices": [
+      "economies of scale in the long run",
+      "diminishing marginal returns to a variable input",
+      "a decrease in fixed cost",
+      "perfect price discrimination"
+    ],
+    "correctAnswer": "diminishing marginal returns to a variable input",
+    "explanation": "The kitchen is fixed, so this is short-run production.|Adding more labor eventually crowds the fixed input.|Marginal product begins to fall.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-marginal-cost-01",
+    "unit": 3,
+    "topic": "Marginal Cost",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "Total cost rises from 220 to 248 when output increases from 20 to 24 units. Marginal cost per unit over this range is",
+    "choices": [
+      "4 gold",
+      "7 gold",
+      "28 gold",
+      "112 gold"
+    ],
+    "correctAnswer": "7 gold",
+    "explanation": "Marginal cost is change in total cost divided by change in output.|Cost changes by 28 and output changes by 4.|MC = 28/4 = 7.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-average-total-cost-01",
+    "unit": 3,
+    "topic": "Average Total Cost",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A firm produces 50 units. Fixed cost is 200 and variable cost is 550. Average total cost equals",
+    "choices": [
+      "4",
+      "11",
+      "15",
+      "750"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Total cost is fixed cost plus variable cost: 200 + 550 = 750.|ATC = TC/Q.|750/50 = 15.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-average-variable-cost-01",
+    "unit": 3,
+    "topic": "Average Variable Cost",
+    "difficulty": "easy",
+    "type": "calculation",
+    "question": "A firm produces 40 units with variable cost of 320 and fixed cost of 120. Average variable cost is",
+    "choices": [
+      "3",
+      "8",
+      "11",
+      "440"
+    ],
+    "correctAnswer": "8",
+    "explanation": "Average variable cost is variable cost divided by quantity.|320/40 = 8.|Fixed cost is not included in AVC.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-afc-01",
+    "unit": 3,
+    "topic": "Average Fixed Cost",
+    "difficulty": "easy",
+    "type": "calculation",
+    "question": "If fixed cost is 180 and output is 30 units, average fixed cost is",
+    "choices": [
+      "5",
+      "6",
+      "30",
+      "180"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Average fixed cost equals fixed cost divided by output.|180/30 = 6.|AFC falls as output rises.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-mc-atc-relationship-01",
+    "unit": 3,
+    "topic": "Cost Curve Relationships",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "If marginal cost is greater than average total cost, then average total cost is",
+    "choices": [
+      "falling",
+      "rising",
+      "constant",
+      "equal to average variable cost"
+    ],
+    "correctAnswer": "rising",
+    "explanation": "Marginal cost pulls the average in its direction.|When MC is above ATC, the added units cost more than the current average.|ATC rises.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-mc-avc-relationship-01",
+    "unit": 3,
+    "topic": "Cost Curve Relationships",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Marginal cost intersects average variable cost at the point where",
+    "choices": [
+      "AVC is minimized",
+      "AVC is maximized",
+      "AFC is minimized",
+      "total cost is zero"
+    ],
+    "correctAnswer": "AVC is minimized",
+    "explanation": "When MC is below AVC, AVC falls.|When MC is above AVC, AVC rises.|Therefore MC crosses AVC at AVC minimum.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-short-run-long-run-01",
+    "unit": 3,
+    "topic": "Short Run and Long Run",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "The short run is a period in which",
+    "choices": [
+      "all inputs are variable",
+      "at least one input is fixed",
+      "economic profit must be zero",
+      "firms cannot produce output"
+    ],
+    "correctAnswer": "at least one input is fixed",
+    "explanation": "In the short run, at least one input cannot be changed.|Other inputs may be variable.|In the long run, all inputs are variable.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-economies-scale-01",
+    "unit": 3,
+    "topic": "Economies of Scale",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A firm doubles all inputs and output more than doubles. The firm experiences",
+    "choices": [
+      "diseconomies of scale",
+      "economies of scale",
+      "constant returns to scale",
+      "diminishing marginal returns"
+    ],
+    "correctAnswer": "economies of scale",
+    "explanation": "The scenario changes all inputs, so it is long run.|Output rises more than proportionally.|Long-run average cost falls, indicating economies of scale.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-profit-01",
+    "unit": 3,
+    "topic": "Profit",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A firm sells 80 units at 12 gold each. Its total cost is 760 gold. Economic profit equals",
+    "choices": [
+      "120 gold",
+      "200 gold",
+      "760 gold",
+      "960 gold"
+    ],
+    "correctAnswer": "200 gold",
+    "explanation": "Total revenue is P x Q = 12 x 80 = 960.|Profit is TR - TC.|960 - 760 = 200.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-perfect-competition-output-01",
+    "unit": 3,
+    "topic": "Perfect Competition",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A perfectly competitive firm maximizes profit by producing the output where",
+    "choices": [
+      "price equals marginal cost, if price covers AVC",
+      "price equals average total cost always",
+      "marginal revenue is zero",
+      "demand is unit elastic"
+    ],
+    "correctAnswer": "price equals marginal cost, if price covers AVC",
+    "explanation": "For a competitive firm, P = MR.|Profit maximization occurs where MR = MC.|The firm produces if price is at least AVC in the short run.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-perfect-competition-graph-01",
+    "unit": 3,
+    "topic": "Perfect Competition",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "In the graph of a perfectly competitive firm, the profit-maximizing quantity is found where",
+    "choices": [
+      "P = MC",
+      "P = ATC minimum",
+      "AVC = AFC",
+      "ATC = zero"
+    ],
+    "correctAnswer": "P = MC",
+    "explanation": "A competitive firm is a price taker, so P = MR.|Profit is maximized where MR = MC.|On the graph, choose the quantity where the horizontal price line crosses MC.",
+    "graphConfig": {
+      "type": "perfectCompetition",
+      "title": "Competitive Firm",
+      "curves": [
+        {
+          "label": "P=MR",
+          "kind": "price",
+          "shift": "none"
+        },
+        {
+          "label": "MC",
+          "kind": "marginalCost",
+          "shift": "none"
+        },
+        {
+          "label": "ATC",
+          "kind": "averageTotalCost",
+          "shift": "none"
+        },
+        {
+          "label": "AVC",
+          "kind": "averageVariableCost",
+          "shift": "none"
+        }
+      ],
+      "highlight": "profitMaxQuantity",
+      "interaction": "clickEquilibrium",
+      "correctAnswer": {
+        "kind": "point",
+        "x": 56,
+        "y": 48,
+        "tolerance": 8,
+        "label": "profit-maximizing point"
+      }
+    }
+  },
+  {
+    "id": "3-shutdown-rule-01",
+    "unit": 3,
+    "topic": "Shutdown Rule",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A competitive firm has P = 14, AVC = 16, and ATC = 22 at the output where P = MC. In the short run it should",
+    "choices": [
+      "produce and earn a profit",
+      "produce because price is below ATC but above zero",
+      "shut down because price is below AVC",
+      "increase output until P = ATC"
+    ],
+    "correctAnswer": "shut down because price is below AVC",
+    "explanation": "The shutdown rule compares price with AVC.|If P < AVC, the firm cannot cover variable cost.|It minimizes loss by shutting down.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-loss-minimization-01",
+    "unit": 3,
+    "topic": "Short-Run Losses",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "At the profit-maximizing output, a competitive firm has P = 18, AVC = 12, and ATC = 24. The firm should",
+    "choices": [
+      "shut down immediately",
+      "produce in the short run and incur a loss",
+      "produce and earn positive economic profit",
+      "raise price to 24"
+    ],
+    "correctAnswer": "produce in the short run and incur a loss",
+    "explanation": "Price is below ATC, so the firm has a loss.|Price is above AVC, so it covers variable cost and some fixed cost.|It should produce in the short run.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-break-even-01",
+    "unit": 3,
+    "topic": "Break-Even Point",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A competitive firm breaks even in the short run when price equals",
+    "choices": [
+      "minimum AVC",
+      "minimum ATC",
+      "marginal product",
+      "fixed cost"
+    ],
+    "correctAnswer": "minimum ATC",
+    "explanation": "Break-even means economic profit is zero.|That occurs when price equals average total cost at the chosen output.|The lowest break-even price is minimum ATC.",
+    "graphConfig": {
+      "type": "perfectCompetition",
+      "title": "Break-Even Competitive Firm",
+      "curves": [
+        {
+          "label": "P=MR",
+          "kind": "price",
+          "shift": "none"
+        },
+        {
+          "label": "MC",
+          "kind": "marginalCost",
+          "shift": "none"
+        },
+        {
+          "label": "ATC",
+          "kind": "averageTotalCost",
+          "shift": "none"
+        },
+        {
+          "label": "AVC",
+          "kind": "averageVariableCost",
+          "shift": "none"
+        }
+      ],
+      "highlight": "breakEven",
+      "interaction": "clickEquilibrium",
+      "correctAnswer": {
+        "kind": "point",
+        "x": 46,
+        "y": 48,
+        "tolerance": 8,
+        "label": "break-even point"
+      }
+    }
+  },
+  {
+    "id": "3-long-run-entry-01",
+    "unit": 3,
+    "topic": "Long-Run Adjustment",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If firms in a perfectly competitive industry are earning positive economic profit, in the long run",
+    "choices": [
+      "firms enter, market supply increases, and price falls",
+      "firms exit, market supply decreases, and price rises",
+      "demand decreases automatically",
+      "price remains above ATC permanently"
+    ],
+    "correctAnswer": "firms enter, market supply increases, and price falls",
+    "explanation": "Positive economic profit attracts entry.|Entry increases market supply.|Price falls until economic profit returns to zero.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-long-run-exit-01",
+    "unit": 3,
+    "topic": "Long-Run Adjustment",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If firms in a perfectly competitive industry are earning losses, in the long run",
+    "choices": [
+      "new firms enter and price falls",
+      "firms exit and price rises",
+      "all firms shut down permanently even if P > AVC",
+      "demand must shift left"
+    ],
+    "correctAnswer": "firms exit and price rises",
+    "explanation": "Losses cause firms to exit.|Exit decreases market supply.|Price rises until remaining firms earn zero economic profit.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-allocative-efficiency-pc-01",
+    "unit": 3,
+    "topic": "Efficiency in Perfect Competition",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Perfectly competitive markets are allocatively efficient in long-run equilibrium because",
+    "choices": [
+      "P = MC",
+      "P = ATC maximum",
+      "MR = zero",
+      "firms have market power"
+    ],
+    "correctAnswer": "P = MC",
+    "explanation": "Allocative efficiency occurs where P = MC.|In perfect competition, firms produce where P = MC.|Long-run equilibrium also has zero economic profit.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-productive-efficiency-pc-01",
+    "unit": 3,
+    "topic": "Efficiency in Perfect Competition",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Perfectly competitive firms achieve productive efficiency in long-run equilibrium because they produce where",
+    "choices": [
+      "P is greater than MC",
+      "ATC is minimized",
+      "AVC is maximized",
+      "TR is minimized"
+    ],
+    "correctAnswer": "ATC is minimized",
+    "explanation": "Productive efficiency means producing at the lowest average total cost.|Long-run competition drives price to minimum ATC.|Firms produce at the efficient scale.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-supply-curve-firm-01",
+    "unit": 3,
+    "topic": "Firm Supply Curve",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "The short-run supply curve of a perfectly competitive firm is the portion of its",
+    "choices": [
+      "MC curve above AVC",
+      "ATC curve above MC",
+      "demand curve below AVC",
+      "AFC curve above price"
+    ],
+    "correctAnswer": "MC curve above AVC",
+    "explanation": "A competitive firm produces where P = MC when P is at least AVC.|Below AVC the firm shuts down.|Thus its short-run supply curve is MC above AVC.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-market-supply-01",
+    "unit": 3,
+    "topic": "Market Supply",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In perfect competition, the market supply curve is found by",
+    "choices": [
+      "vertically summing firm demand curves",
+      "horizontally summing the quantities supplied by individual firms at each price",
+      "averaging all firm ATC curves",
+      "using only the largest firm"
+    ],
+    "correctAnswer": "horizontally summing the quantities supplied by individual firms at each price",
+    "explanation": "Market supply adds quantities across firms at each price.|This is a horizontal summation.|It shows total quantity supplied in the market.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-variable-fixed-cost-01",
+    "unit": 3,
+    "topic": "Fixed and Variable Cost",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "Which cost is most likely fixed in the short run for a restaurant?",
+    "choices": [
+      "Hourly wages for servers",
+      "Monthly rent on the building",
+      "Ingredients used in meals",
+      "Electricity used by ovens"
+    ],
+    "correctAnswer": "Monthly rent on the building",
+    "explanation": "Fixed costs do not vary with output in the short run.|Rent usually must be paid regardless of meals served.|Ingredients and hourly labor tend to vary with output.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-marginal-cost-table-01",
+    "unit": 3,
+    "topic": "Marginal Cost",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A firm total cost is 100 at 0 units, 140 at 5 units, and 190 at 10 units. What is marginal cost per unit from 5 to 10 units?",
+    "choices": [
+      "8",
+      "10",
+      "14",
+      "19"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Cost rises from 140 to 190, a change of 50.|Output rises from 5 to 10, a change of 5.|MC per unit is 50/5 = 10.",
+    "graphConfig": null
+  },
+  {
+    "id": "3-profit-max-table-01",
+    "unit": 3,
+    "topic": "Profit Maximization",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A competitive firm sells output for 9 gold. Marginal cost for the 4th unit is 7 and for the 5th unit is 11. If earlier units have MC below price, the firm should produce",
+    "choices": [
+      "4 units",
+      "5 units",
+      "0 units",
+      "every unit with MC above price"
+    ],
+    "correctAnswer": "4 units",
+    "explanation": "A competitive firm produces units for which price is at least marginal cost.|The 4th unit has MC 7, below price 9.|The 5th unit has MC 11, above price 9, so stop at 4 units.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-monopoly-output-01",
+    "unit": 4,
+    "topic": "Monopoly Profit Maximization",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A single-price monopolist maximizes profit by producing where",
+    "choices": [
+      "P = MC",
+      "MR = MC",
+      "P = ATC",
+      "MR = demand"
+    ],
+    "correctAnswer": "MR = MC",
+    "explanation": "A monopolist chooses quantity where marginal revenue equals marginal cost.|It then charges the highest price consumers will pay for that quantity.|That price is found on the demand curve.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-monopoly-price-01",
+    "unit": 4,
+    "topic": "Monopoly Profit Maximization",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "In the monopoly graph, after choosing the quantity where MR = MC, the monopolist sets price by moving up to the",
+    "choices": [
+      "demand curve",
+      "marginal revenue curve",
+      "marginal cost curve",
+      "average variable cost curve"
+    ],
+    "correctAnswer": "demand curve",
+    "explanation": "MR = MC determines the profit-maximizing quantity.|Consumers willingness to pay is shown by demand.|The monopolist charges the price on the demand curve at that quantity.",
+    "graphConfig": {
+      "type": "monopoly",
+      "title": "Single-Price Monopoly",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MR",
+          "kind": "marginalRevenue",
+          "shift": "none"
+        },
+        {
+          "label": "MC",
+          "kind": "marginalCost",
+          "shift": "none"
+        },
+        {
+          "label": "ATC",
+          "kind": "averageTotalCost",
+          "shift": "none"
+        }
+      ],
+      "highlight": "priceFromDemand",
+      "interaction": "clickEquilibrium",
+      "correctAnswer": {
+        "kind": "point",
+        "x": 52,
+        "y": 37,
+        "tolerance": 9,
+        "label": "price from demand at Qm"
+      }
+    }
+  },
+  {
+    "id": "4-monopoly-dwl-01",
+    "unit": 4,
+    "topic": "Deadweight Loss",
+    "difficulty": "hard",
+    "type": "graph",
+    "question": "A single-price monopolist creates deadweight loss because it produces where",
+    "choices": [
+      "P = MC",
+      "P > MC and quantity is below the efficient quantity",
+      "P < MC and quantity is above the efficient quantity",
+      "ATC is minimized"
+    ],
+    "correctAnswer": "P > MC and quantity is below the efficient quantity",
+    "explanation": "Efficiency requires P = MC.|A monopolist restricts output so price exceeds marginal cost.|The lost mutually beneficial trades create deadweight loss.",
+    "graphConfig": {
+      "type": "monopoly",
+      "title": "Monopoly Deadweight Loss",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MR",
+          "kind": "marginalRevenue",
+          "shift": "none"
+        },
+        {
+          "label": "MC",
+          "kind": "marginalCost",
+          "shift": "none"
+        },
+        {
+          "label": "ATC",
+          "kind": "averageTotalCost",
+          "shift": "none"
+        }
+      ],
+      "highlight": "deadweightLoss",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "deadweightLoss"
+      }
+    }
+  },
+  {
+    "id": "4-monopoly-profit-01",
+    "unit": 4,
+    "topic": "Monopoly Profit",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A monopolist sells 30 units at 18 gold each. ATC at that output is 12. Economic profit equals",
+    "choices": [
+      "180 gold",
+      "360 gold",
+      "540 gold",
+      "900 gold"
+    ],
+    "correctAnswer": "180 gold",
+    "explanation": "Profit per unit is P - ATC = 18 - 12 = 6.|Multiply by quantity.|6 x 30 = 180.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-monopoly-loss-01",
+    "unit": 4,
+    "topic": "Monopoly Profit",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A monopolist sells 40 units at price 15. ATC is 18 at that quantity. The firm has",
+    "choices": [
+      "profit of 120",
+      "loss of 120",
+      "profit of 600",
+      "zero economic profit"
+    ],
+    "correctAnswer": "loss of 120",
+    "explanation": "Profit per unit is P - ATC = 15 - 18 = -3.|Multiply by 40.|The firm has a loss of 120.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-natural-monopoly-01",
+    "unit": 4,
+    "topic": "Natural Monopoly",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A natural monopoly is most likely when",
+    "choices": [
+      "fixed costs are low and marginal cost is high",
+      "economies of scale exist over the relevant range of output",
+      "many firms produce identical products",
+      "entry barriers are absent"
+    ],
+    "correctAnswer": "economies of scale exist over the relevant range of output",
+    "explanation": "Natural monopoly occurs when one large firm can produce at lower average cost than multiple small firms.|This is due to economies of scale over market demand.|Utilities are common examples.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-price-discrimination-01",
+    "unit": 4,
+    "topic": "Price Discrimination",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "For price discrimination to increase profit, a firm must be able to",
+    "choices": [
+      "sell in a perfectly competitive market",
+      "separate buyers by willingness to pay and prevent resale",
+      "charge every buyer the same price",
+      "produce where price equals marginal cost"
+    ],
+    "correctAnswer": "separate buyers by willingness to pay and prevent resale",
+    "explanation": "Price discrimination requires some market power.|The firm must identify groups with different willingness to pay.|It must also limit resale between groups.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-perfect-price-discrimination-01",
+    "unit": 4,
+    "topic": "Price Discrimination",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Compared with a single-price monopoly, perfect price discrimination results in",
+    "choices": [
+      "less output and more deadweight loss",
+      "the efficient quantity and no consumer surplus",
+      "the same price for all consumers",
+      "zero producer surplus"
+    ],
+    "correctAnswer": "the efficient quantity and no consumer surplus",
+    "explanation": "A perfectly price-discriminating monopolist sells each unit at willingness to pay.|It expands output until P = MC.|Consumer surplus is captured by the firm, and deadweight loss is eliminated.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-monopolistic-competition-01",
+    "unit": 4,
+    "topic": "Monopolistic Competition",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A monopolistically competitive firm differs from a perfectly competitive firm because it",
+    "choices": [
+      "sells a differentiated product and faces a downward-sloping demand curve",
+      "has no control over price and sells an identical product",
+      "must earn positive profit in the long run",
+      "has a horizontal marginal cost curve"
+    ],
+    "correctAnswer": "sells a differentiated product and faces a downward-sloping demand curve",
+    "explanation": "Monopolistic competition includes many firms with differentiated products.|Product differentiation gives each firm some price-setting ability.|Therefore each firm faces a downward-sloping demand curve.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-monopolistic-competition-lr-01",
+    "unit": 4,
+    "topic": "Monopolistic Competition",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In the long run, entry into a monopolistically competitive market with positive profit causes each existing firm demand curve to",
+    "choices": [
+      "shift right until profit increases",
+      "shift left until economic profit is zero",
+      "become horizontal",
+      "become the marginal cost curve"
+    ],
+    "correctAnswer": "shift left until economic profit is zero",
+    "explanation": "Positive profit attracts entry.|New substitutes reduce demand for existing firms.|Entry continues until economic profit is zero.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-excess-capacity-01",
+    "unit": 4,
+    "topic": "Excess Capacity",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In long-run monopolistic competition, firms typically have excess capacity because they produce",
+    "choices": [
+      "where ATC is minimized",
+      "to the left of minimum ATC",
+      "where P = MC",
+      "at the lowest possible price"
+    ],
+    "correctAnswer": "to the left of minimum ATC",
+    "explanation": "Monopolistically competitive firms face downward-sloping demand.|Long-run tangency with ATC occurs before minimum ATC.|They produce less than the efficient scale, creating excess capacity.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-oligopoly-01",
+    "unit": 4,
+    "topic": "Oligopoly",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Oligopoly firms are interdependent because",
+    "choices": [
+      "each firm is too small to affect market price",
+      "each firm must consider rivals responses to its choices",
+      "there are no barriers to entry",
+      "products are always identical"
+    ],
+    "correctAnswer": "each firm must consider rivals responses to its choices",
+    "explanation": "Oligopoly has a small number of large firms.|One firms price or output decision affects rivals.|Firms must consider strategic responses.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-game-theory-01",
+    "unit": 4,
+    "topic": "Game Theory",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Two firms can advertise or not advertise. For each firm, advertising gives a higher payoff regardless of the other firms action, but both would earn more if neither advertised. Advertising is",
+    "choices": [
+      "a dominant strategy leading to a prisoners dilemma",
+      "a cartel agreement that maximizes joint profit",
+      "a Nash equilibrium only if the rival does not advertise",
+      "a sign of perfect competition"
+    ],
+    "correctAnswer": "a dominant strategy leading to a prisoners dilemma",
+    "explanation": "A dominant strategy is best regardless of the rival choice.|Both firms choose advertising even though mutual no-advertising would be better.|That is a prisoners dilemma.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-nash-equilibrium-01",
+    "unit": 4,
+    "topic": "Game Theory",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "A Nash equilibrium occurs when",
+    "choices": [
+      "each player is choosing the best response to the other players strategy",
+      "all players earn the maximum possible joint profit",
+      "one firm has no strategy available",
+      "price equals minimum ATC in every market"
+    ],
+    "correctAnswer": "each player is choosing the best response to the other players strategy",
+    "explanation": "In Nash equilibrium, no player can improve by changing strategy alone.|Each strategy is a best response to the other strategies.|It does not necessarily maximize joint profit.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-collusion-01",
+    "unit": 4,
+    "topic": "Collusion",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If several firms form a cartel and successfully maximize joint profit, the cartel will behave most like",
+    "choices": [
+      "a perfectly competitive industry",
+      "a single-price monopolist",
+      "a price-taking firm",
+      "a public good provider"
+    ],
+    "correctAnswer": "a single-price monopolist",
+    "explanation": "A cartel coordinates output and price.|Joint profit maximization resembles one monopolist controlling market output.|The cartel restricts output and raises price.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-regulation-01",
+    "unit": 4,
+    "topic": "Regulation of Monopoly",
+    "difficulty": "hard",
+    "type": "graph",
+    "question": "If a natural monopoly is required to charge the allocatively efficient price, price is set where",
+    "choices": [
+      "P = MC",
+      "P = ATC",
+      "MR = MC",
+      "MR = ATC"
+    ],
+    "correctAnswer": "P = MC",
+    "explanation": "Allocative efficiency requires price equals marginal cost.|For a natural monopoly, this price may be below average total cost.|That can require a subsidy if the firm is to continue operating.",
+    "graphConfig": {
+      "type": "monopoly",
+      "title": "Regulated Natural Monopoly",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MR",
+          "kind": "marginalRevenue",
+          "shift": "none"
+        },
+        {
+          "label": "MC",
+          "kind": "marginalCost",
+          "shift": "none"
+        },
+        {
+          "label": "ATC",
+          "kind": "averageTotalCost",
+          "shift": "none"
+        }
+      ],
+      "highlight": "allocativePrice",
+      "interaction": "clickEquilibrium",
+      "correctAnswer": {
+        "kind": "point",
+        "x": 72,
+        "y": 36,
+        "tolerance": 10,
+        "label": "P = MC point"
+      }
+    }
+  },
+  {
+    "id": "4-fair-return-01",
+    "unit": 4,
+    "topic": "Regulation of Monopoly",
+    "difficulty": "hard",
+    "type": "graph",
+    "question": "A fair-return price for a regulated monopoly is the price where",
+    "choices": [
+      "P = MC",
+      "P = ATC",
+      "MR = MC",
+      "MR = zero"
+    ],
+    "correctAnswer": "P = ATC",
+    "explanation": "Fair-return regulation allows the firm to earn zero economic profit.|Zero economic profit means P = ATC.|It is less efficient than P = MC but avoids losses.",
+    "graphConfig": {
+      "type": "monopoly",
+      "title": "Fair-Return Regulation",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MR",
+          "kind": "marginalRevenue",
+          "shift": "none"
+        },
+        {
+          "label": "MC",
+          "kind": "marginalCost",
+          "shift": "none"
+        },
+        {
+          "label": "ATC",
+          "kind": "averageTotalCost",
+          "shift": "none"
+        }
+      ],
+      "highlight": "fairReturnPrice",
+      "interaction": "clickEquilibrium",
+      "correctAnswer": {
+        "kind": "point",
+        "x": 62,
+        "y": 52,
+        "tolerance": 10,
+        "label": "P = ATC point"
+      }
+    }
+  },
+  {
+    "id": "4-mr-demand-01",
+    "unit": 4,
+    "topic": "Marginal Revenue",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "For a single-price monopolist with a downward-sloping demand curve, marginal revenue is less than price because",
+    "choices": [
+      "the firm must lower price on all units to sell one more unit",
+      "marginal cost is always zero",
+      "demand is perfectly elastic",
+      "fixed cost rises with output"
+    ],
+    "correctAnswer": "the firm must lower price on all units to sell one more unit",
+    "explanation": "To sell another unit, a single-price monopolist lowers price.|The lower price applies to earlier units too.|That lost revenue makes MR less than price.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-barriers-entry-01",
+    "unit": 4,
+    "topic": "Barriers to Entry",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Which is most likely a barrier to entry?",
+    "choices": [
+      "A patent on a production process",
+      "Many sellers with identical products",
+      "Perfect information for buyers",
+      "No start-up costs"
+    ],
+    "correctAnswer": "A patent on a production process",
+    "explanation": "A barrier to entry makes it difficult for new firms to enter.|A patent gives legal protection to one producer.|That can sustain market power.",
+    "graphConfig": null
+  },
+  {
+    "id": "4-hhi-01",
+    "unit": 4,
+    "topic": "Market Concentration",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "Four firms have market shares of 40, 30, 20, and 10 percent. The Herfindahl-Hirschman Index equals",
+    "choices": [
+      "100",
+      "1,000",
+      "3,000",
+      "10,000"
+    ],
+    "correctAnswer": "3,000",
+    "explanation": "HHI is the sum of squared market shares.|40^2 + 30^2 + 20^2 + 10^2 = 1600 + 900 + 400 + 100.|HHI = 3,000.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-derived-demand-01",
+    "unit": 5,
+    "topic": "Derived Demand",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If demand for restaurant meals rises, the demand for cooks will most likely",
+    "choices": [
+      "increase because labor demand is derived from product demand",
+      "decrease because wages must rise",
+      "remain fixed because labor is not a final good",
+      "become perfectly inelastic"
+    ],
+    "correctAnswer": "increase because labor demand is derived from product demand",
+    "explanation": "Labor demand is derived from demand for the final product.|More meals demanded raises the value of cooks output.|Demand for cooks shifts right.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-mrp-01",
+    "unit": 5,
+    "topic": "Marginal Revenue Product",
+    "difficulty": "medium",
+    "type": "calculation",
+    "question": "A worker adds 9 units of output, and each unit sells for 7 gold in a competitive product market. The workers MRP is",
+    "choices": [
+      "9 gold",
+      "16 gold",
+      "63 gold",
+      "79 gold"
+    ],
+    "correctAnswer": "63 gold",
+    "explanation": "MRP = MP x MR.|In a competitive product market, MR = price = 7.|MRP = 9 x 7 = 63.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-mrp-02",
+    "unit": 5,
+    "topic": "Marginal Revenue Product",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A firm sells output in an imperfectly competitive market. Hiring one more worker raises output from 20 to 25 units, and total revenue rises from 300 to 360. The workers MRP is",
+    "choices": [
+      "5",
+      "12",
+      "60",
+      "360"
+    ],
+    "correctAnswer": "60",
+    "explanation": "MRP is the change in total revenue from hiring one more input.|Total revenue rises from 300 to 360.|The MRP is 60.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-hiring-rule-01",
+    "unit": 5,
+    "topic": "Profit-Maximizing Hiring",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A firm hiring labor in a competitive labor market maximizes profit by hiring workers until",
+    "choices": [
+      "wage = MRP",
+      "wage = product price",
+      "MPL = total cost",
+      "MRP = zero"
+    ],
+    "correctAnswer": "wage = MRP",
+    "explanation": "The wage is the marginal factor cost in a competitive labor market.|The firm hires until the cost of the last worker equals the revenue the worker adds.|Thus W = MRP.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-hiring-rule-02",
+    "unit": 5,
+    "topic": "Profit-Maximizing Hiring",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A firm pays a wage of 80. The MRP of the 4th worker is 95 and the MRP of the 5th worker is 76. How many workers should it hire if earlier workers have MRP above wage?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Hire workers while MRP is at least wage.|The 4th worker adds 95, which exceeds 80.|The 5th adds 76, below 80, so hire 4 workers.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-labor-demand-shift-01",
+    "unit": 5,
+    "topic": "Labor Demand Shifters",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An increase in worker productivity will most likely",
+    "choices": [
+      "increase labor demand",
+      "decrease labor demand",
+      "decrease product demand",
+      "leave MRP unchanged"
+    ],
+    "correctAnswer": "increase labor demand",
+    "explanation": "Higher productivity raises marginal product.|MRP = MP x MR or price.|When MRP rises, firms demand more labor at each wage.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-least-cost-01",
+    "unit": 5,
+    "topic": "Least-Cost Rule",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "For a firm using labor and capital, MPL/PL = 6 and MPK/PK = 4. To minimize cost for a given output, the firm should use",
+    "choices": [
+      "more labor and less capital",
+      "more capital and less labor",
+      "less of both inputs",
+      "the same input mix"
+    ],
+    "correctAnswer": "more labor and less capital",
+    "explanation": "The least-cost rule is MPL/PL = MPK/PK.|Labor gives more marginal product per dollar than capital.|The firm should substitute toward labor and away from capital.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-profit-max-inputs-01",
+    "unit": 5,
+    "topic": "Profit-Maximizing Input Mix",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "A firm using two variable inputs maximizes profit when",
+    "choices": [
+      "MPL/PL = MPK/PK and MRP of each input equals its price",
+      "MPL = MPK regardless of prices",
+      "total product is maximized",
+      "average product is zero"
+    ],
+    "correctAnswer": "MPL/PL = MPK/PK and MRP of each input equals its price",
+    "explanation": "Cost minimization requires equal marginal product per dollar across inputs.|Profit maximization also requires each inputs MRP to equal its price.|Both conditions must hold.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-labor-supply-01",
+    "unit": 5,
+    "topic": "Labor Supply",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If licensing requirements make it harder to become an electrician, the labor market for electricians will most likely experience",
+    "choices": [
+      "an increase in labor supply and lower wages",
+      "a decrease in labor supply and higher wages",
+      "an increase in labor demand and lower wages",
+      "no change because licenses affect only product markets"
+    ],
+    "correctAnswer": "a decrease in labor supply and higher wages",
+    "explanation": "Licensing restrictions reduce the number of eligible workers.|Labor supply shifts left.|Equilibrium wage rises and employment falls.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-monopsony-01",
+    "unit": 5,
+    "topic": "Monopsony",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Compared with a competitive labor market, a monopsonist typically hires",
+    "choices": [
+      "more workers and pays a higher wage",
+      "fewer workers and pays a lower wage",
+      "the same number of workers at the same wage",
+      "fewer workers and pays a higher wage"
+    ],
+    "correctAnswer": "fewer workers and pays a lower wage",
+    "explanation": "A monopsonist faces an upward-sloping labor supply curve.|Its marginal factor cost exceeds the wage.|It hires fewer workers and pays a lower wage than a competitive labor market.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-mfc-01",
+    "unit": 5,
+    "topic": "Marginal Factor Cost",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A monopsonist can hire 3 workers at 50 each or 4 workers at 55 each. The marginal factor cost of the 4th worker is",
+    "choices": [
+      "55",
+      "65",
+      "70",
+      "220"
+    ],
+    "correctAnswer": "70",
+    "explanation": "Total labor cost at 3 workers is 3 x 50 = 150.|Total labor cost at 4 workers is 4 x 55 = 220.|MFC of the 4th worker is 220 - 150 = 70.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-minimum-wage-01",
+    "unit": 5,
+    "topic": "Minimum Wage in Factor Markets",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In a competitive labor market, a binding minimum wage set above equilibrium will most likely",
+    "choices": [
+      "increase employment and reduce unemployment",
+      "decrease employment and create a surplus of labor",
+      "decrease labor supply",
+      "increase labor demand"
+    ],
+    "correctAnswer": "decrease employment and create a surplus of labor",
+    "explanation": "A binding minimum wage is a price floor above equilibrium.|Quantity supplied of labor rises and quantity demanded falls.|The result is unemployment, a surplus of labor.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-wage-differentials-01",
+    "unit": 5,
+    "topic": "Wage Differentials",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A compensating wage differential is most likely paid to workers who",
+    "choices": [
+      "perform jobs with worse nonwage characteristics",
+      "have perfectly elastic labor supply",
+      "work in markets with no demand",
+      "produce public goods only"
+    ],
+    "correctAnswer": "perform jobs with worse nonwage characteristics",
+    "explanation": "Some jobs are dangerous, unpleasant, or inconvenient.|Higher wages can compensate workers for those nonwage costs.|That extra pay is a compensating differential.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-human-capital-01",
+    "unit": 5,
+    "topic": "Human Capital",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "Training that increases a workers skills will most directly increase the workers",
+    "choices": [
+      "marginal product and likely wage",
+      "fixed cost and likely unemployment",
+      "demand for leisure only",
+      "monopsony power"
+    ],
+    "correctAnswer": "marginal product and likely wage",
+    "explanation": "Human capital raises productivity.|Higher marginal product increases MRP.|Higher MRP can increase the wage workers receive.",
+    "graphConfig": null
+  },
+  {
+    "id": "5-factor-market-graph-01",
+    "unit": 5,
+    "topic": "Labor Market Equilibrium",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "In a competitive labor market, an increase in product demand for the good workers produce is shown as",
+    "choices": [
+      "a rightward shift of labor demand",
+      "a leftward shift of labor demand",
+      "a rightward shift of labor supply",
+      "a binding wage ceiling"
+    ],
+    "correctAnswer": "a rightward shift of labor demand",
+    "explanation": "Labor demand is derived from product demand.|Higher product demand raises the value of workers output.|Labor demand shifts right.",
+    "graphConfig": {
+      "type": "supplyDemand",
+      "title": "Market for Labor",
+      "curves": [
+        {
+          "label": "SL",
+          "kind": "supply",
+          "shift": "none"
+        },
+        {
+          "label": "DL",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "DL2",
+          "kind": "demand",
+          "shift": "right"
+        }
+      ],
+      "highlight": "newEquilibrium",
+      "interaction": "shiftCurve",
+      "correctAnswer": {
+        "kind": "shift",
+        "curve": "demand",
+        "direction": "right"
+      }
+    }
+  },
+  {
+    "id": "6-negative-externality-01",
+    "unit": 6,
+    "topic": "Negative Externalities",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "A factory creates pollution as it produces paper. Without government intervention, the market quantity is likely",
+    "choices": [
+      "greater than the socially efficient quantity",
+      "less than the socially efficient quantity",
+      "equal to the socially efficient quantity",
+      "zero because production is illegal"
+    ],
+    "correctAnswer": "greater than the socially efficient quantity",
+    "explanation": "Pollution is a negative production externality.|Private supply reflects MPC, which is below MSC.|The market produces too much relative to the efficient quantity.",
+    "graphConfig": {
+      "type": "externality",
+      "title": "Paper with Pollution",
+      "externality": "negativeProduction",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MPC",
+          "kind": "supply",
+          "shift": "none"
+        },
+        {
+          "label": "MSC",
+          "kind": "supply",
+          "shift": "left"
+        }
+      ],
+      "highlight": "overproduction",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "overproduction"
+      }
+    }
+  },
+  {
+    "id": "6-negative-tax-01",
+    "unit": 6,
+    "topic": "Corrective Taxes",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A per-unit tax equal to marginal external cost in a market with a negative production externality will",
+    "choices": [
+      "increase output to the market quantity",
+      "shift private cost toward social cost",
+      "shift demand right",
+      "create a larger deadweight loss than before"
+    ],
+    "correctAnswer": "shift private cost toward social cost",
+    "explanation": "A corrective tax makes producers account for external cost.|It shifts private supply upward toward MSC.|The market quantity moves closer to the efficient quantity.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-positive-externality-01",
+    "unit": 6,
+    "topic": "Positive Externalities",
+    "difficulty": "medium",
+    "type": "graph",
+    "question": "Education creates benefits for people beyond the student. Without intervention, the market quantity of education is likely",
+    "choices": [
+      "greater than the socially efficient quantity",
+      "less than the socially efficient quantity",
+      "efficient because MPB = MSB always",
+      "unrelated to social benefit"
+    ],
+    "correctAnswer": "less than the socially efficient quantity",
+    "explanation": "Education can create a positive consumption externality.|Private demand reflects MPB, which is below MSB.|The market underproduces education.",
+    "graphConfig": {
+      "type": "externality",
+      "title": "Education Market",
+      "externality": "positiveConsumption",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MPB",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MSB",
+          "kind": "demand",
+          "shift": "right"
+        }
+      ],
+      "highlight": "underproduction",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "underproduction"
+      }
+    }
+  },
+  {
+    "id": "6-positive-subsidy-01",
+    "unit": 6,
+    "topic": "Corrective Subsidies",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A subsidy for flu vaccines is most justified when vaccines create",
+    "choices": [
+      "a negative production externality",
+      "a positive consumption externality",
+      "a binding price floor",
+      "a common resource problem only"
+    ],
+    "correctAnswer": "a positive consumption externality",
+    "explanation": "Vaccines can protect people beyond the person vaccinated.|That is a positive externality.|A subsidy encourages consumption closer to the efficient quantity.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-public-good-01",
+    "unit": 6,
+    "topic": "Public Goods",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "A good that is nonexcludable and nonrival is classified as",
+    "choices": [
+      "a private good",
+      "a common resource",
+      "a public good",
+      "a club good"
+    ],
+    "correctAnswer": "a public good",
+    "explanation": "Nonexcludable means people cannot easily be prevented from using it.|Nonrival means one persons use does not reduce others use.|Those traits define a public good.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-free-rider-01",
+    "unit": 6,
+    "topic": "Free Rider Problem",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "The free-rider problem is most likely to occur with",
+    "choices": [
+      "public goods",
+      "private goods",
+      "goods with perfectly elastic supply",
+      "goods sold by price-taking firms"
+    ],
+    "correctAnswer": "public goods",
+    "explanation": "Public goods are nonexcludable.|People can benefit without paying.|That creates the free-rider problem and can lead to underprovision.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-common-resource-01",
+    "unit": 6,
+    "topic": "Common Resources",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "An unregulated fishery is likely overused because fish in the ocean are",
+    "choices": [
+      "excludable and nonrival",
+      "nonexcludable and rival",
+      "excludable and rival",
+      "nonexcludable and nonrival"
+    ],
+    "correctAnswer": "nonexcludable and rival",
+    "explanation": "It is difficult to exclude fishers from open waters.|Fish are rival because one persons catch reduces what remains.|Common resources tend to be overused.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-tragedy-commons-01",
+    "unit": 6,
+    "topic": "Tragedy of the Commons",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Which policy is most likely to reduce overuse of a common grazing field?",
+    "choices": [
+      "Allow unlimited access",
+      "Assign tradable grazing permits",
+      "Set price below equilibrium",
+      "Subsidize each extra animal"
+    ],
+    "correctAnswer": "Assign tradable grazing permits",
+    "explanation": "Common resources are overused when users do not bear the full cost.|Permits limit total use and create property-like rights.|That can move use closer to the efficient level.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-asymmetric-information-01",
+    "unit": 6,
+    "topic": "Asymmetric Information",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Adverse selection is most likely when",
+    "choices": [
+      "one side of a transaction has better information before the transaction",
+      "firms produce where P = MC",
+      "buyers and sellers have identical information",
+      "government sets a binding price ceiling"
+    ],
+    "correctAnswer": "one side of a transaction has better information before the transaction",
+    "explanation": "Adverse selection occurs before a transaction.|One side has private information about quality or risk.|That can drive good products or low-risk buyers out of the market.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-moral-hazard-01",
+    "unit": 6,
+    "topic": "Asymmetric Information",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A driver becomes less careful after buying full insurance. This is an example of",
+    "choices": [
+      "adverse selection",
+      "moral hazard",
+      "productive efficiency",
+      "a positive externality"
+    ],
+    "correctAnswer": "moral hazard",
+    "explanation": "Moral hazard occurs after a transaction.|Insurance changes incentives by reducing the cost of risky behavior to the driver.|The driver takes less care.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-cs-ps-policy-01",
+    "unit": 6,
+    "topic": "Surplus and Policy",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A regulation removes 20 mutually beneficial units from a market. The average surplus lost on those units is 5 gold. The deadweight loss is approximately",
+    "choices": [
+      "25 gold",
+      "50 gold",
+      "100 gold",
+      "200 gold"
+    ],
+    "correctAnswer": "100 gold",
+    "explanation": "Deadweight loss is the surplus from trades that no longer occur.|20 units are lost and average surplus per unit is 5.|DWL = 20 x 5 = 100.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-externality-dwl-01",
+    "unit": 6,
+    "topic": "Externality Deadweight Loss",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A market with a negative externality produces 90 units, but the efficient quantity is 60. If the marginal external cost averages 4 gold over the extra units, deadweight loss is about",
+    "choices": [
+      "60 gold",
+      "120 gold",
+      "240 gold",
+      "360 gold"
+    ],
+    "correctAnswer": "120 gold",
+    "explanation": "The overproduction is 90 - 60 = 30 units.|DWL is the surplus lost on the extra units.|Using the average wedge, 30 x 4 = 120.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-lorenz-inequality-01",
+    "unit": 6,
+    "topic": "Income Distribution",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "A Lorenz curve farther from the line of equality indicates",
+    "choices": [
+      "less income inequality",
+      "more income inequality",
+      "zero poverty",
+      "perfect allocative efficiency"
+    ],
+    "correctAnswer": "more income inequality",
+    "explanation": "The line of equality represents equal income shares.|A Lorenz curve farther away shows income is more concentrated.|That means greater income inequality.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-government-failure-01",
+    "unit": 6,
+    "topic": "Government Intervention",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A government policy intended to fix a market failure may reduce total surplus if",
+    "choices": [
+      "the policy cost exceeds the efficiency gain",
+      "the market failure exists",
+      "private marginal cost differs from social marginal cost",
+      "public goods are nonrival"
+    ],
+    "correctAnswer": "the policy cost exceeds the efficiency gain",
+    "explanation": "Intervention can improve outcomes, but it is not automatically efficient.|Administrative costs and unintended distortions matter.|If policy costs exceed benefits, total surplus falls.",
+    "graphConfig": null
+  },
+  {
+    "id": "6-externality-graph-tax-01",
+    "unit": 6,
+    "topic": "Externality Graphs",
+    "difficulty": "hard",
+    "type": "graph",
+    "question": "On a negative production externality graph, the efficient quantity is found where",
+    "choices": [
+      "demand intersects MPC",
+      "demand intersects MSC",
+      "MPC intersects the quantity axis",
+      "MSC is below MPC"
+    ],
+    "correctAnswer": "demand intersects MSC",
+    "explanation": "Efficiency requires marginal social benefit equals marginal social cost.|Demand usually represents marginal social benefit.|For pollution, MSC lies above MPC, so the efficient quantity is where demand intersects MSC.",
+    "graphConfig": {
+      "type": "externality",
+      "title": "Negative Production Externality",
+      "externality": "negativeProduction",
+      "curves": [
+        {
+          "label": "D",
+          "kind": "demand",
+          "shift": "none"
+        },
+        {
+          "label": "MPC",
+          "kind": "supply",
+          "shift": "none"
+        },
+        {
+          "label": "MSC",
+          "kind": "supply",
+          "shift": "left"
+        }
+      ],
+      "highlight": "efficientQuantity",
+      "interaction": "regionSelect",
+      "correctAnswer": {
+        "kind": "region",
+        "region": "efficientQuantity"
+      }
+    }
+  }
+]
